@@ -5,4 +5,4 @@ INSERT INTO bears (name,age,gender,color,temperament,alive) VALUES ("Mr. Chocola
 ("Melissa",6,"Femal","Brown","",0)
 ("Grinch",4,"Femal","Brown","Angry",1)
 ("Wendy",6,"Male","Brown","Angry",1)
-(NULL,8,"Male","Brown","Angry",0)
+(NULL,8,"Male","Brown","Angry",0);
